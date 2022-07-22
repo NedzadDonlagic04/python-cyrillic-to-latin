@@ -7,3 +7,6 @@ python.
 
 Links to the packages used in this project:
 - https://pypi.org/project/cyrtranslit/
+
+- https://pypi.org/project/autocorrect/
+- https://github.com/filyp/autocorrect
