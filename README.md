@@ -7,6 +7,7 @@ python.
 
 Links to the packages used in this project:
 - https://pypi.org/project/cyrtranslit/
+- https://github.com/opendatakosovo/cyrillic-transliteration
 
 - https://pypi.org/project/autocorrect/
 - https://github.com/filyp/autocorrect
