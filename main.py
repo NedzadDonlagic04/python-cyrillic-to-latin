@@ -14,7 +14,7 @@ def main():
     langList=cyr.supported()
 
     if lang not in langList:
-        print('Language isn\'t supported')
+        print("Language isn't supported")
         quit()
 
     text=input('Enter some cyrillic: ')
